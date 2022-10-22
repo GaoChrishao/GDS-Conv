@@ -3,7 +3,7 @@ shrink-value: 0.0
 random-mask: False
 thresh-dynamic: False
 pool-thresh: 0.0
-gmm-iter: 20
+gmm-iter: 10
 gmm-iter-per: 10
 gmm-prob: 30
 gmm-num: 2

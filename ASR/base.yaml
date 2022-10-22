@@ -53,3 +53,10 @@ encoder-attention-heads: 4
 decoder-embed-dim: 256
 decoder-ffn-embed-dim: 2048
 decoder-attention-heads: 4
+
+
+macaron-style: True
+use-cnn-module: True
+cnn-module-kernel: 31
+encoder-attention-type: rel_pos
+encoder-activation-fn: swish
