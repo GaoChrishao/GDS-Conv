@@ -111,3 +111,15 @@ hint: TDS-Conv uses energy thresh `v=-0.2` to raplace GMM.
 | TDS-Conv   | 2.97      | **6.97**  | 3.12       | 7.18       | 22             |
 | GDS-Conv   | **2.88**  | 7.10      | **2.85**   | **7.17**   | 21             |
 
+## cite
+```
+@inproceedings{zhang23u_interspeech,
+  author={Yuhao Zhang and Chenghao Gao and Kaiqi Kou and Chen Xu and Tong Xiao and Jingbo Zhu},
+  title={{Information Magnitude Based Dynamic Sub-sampling for Speech-to-text}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={4433--4437},
+  doi={10.21437/Interspeech.2023-1168}
+}
+```
+
